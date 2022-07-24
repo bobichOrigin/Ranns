@@ -1,0 +1,53 @@
+{
+    "sites": [
+        {
+            "id": 3,
+            "images": [
+                "img-3.png",
+                "img-4.png"
+            ],
+            "tasks": [
+                "Creating a website for a company",
+                "To increase the flow of customers",
+                "Training of personnel to work with the CRM system",
+                "Improving the company's recognition on the Internet"
+            ],
+            "results": [
+                "Number of applications 470 pcs",
+                "The price of the application is 1490 rubles"
+            ],
+            "link": "claren.ru"
+        },
+        {
+            "id": 4,
+            "images": [
+                "img-4.png",
+                "img-1.png"
+            ],
+            "tasks": [
+                "Creating a website for a company",
+                "To increase the flow of customers",
+                "Training of personnel to work with the CRM system",
+                "Improving the company's recognition on the Internet"
+            ],
+            "results": [
+                "Number of applications 899 pcs",
+                "The price of the application is 1200 rubles"
+            ],
+            "link": "vessta.ru"
+        },
+        {
+            "id": 5,
+            "images": [
+                "img-2.png"
+            ],
+            "tasks": [
+                "Creating a website for a company"
+            ],
+            "results": [
+                "Number of applications 899 pcs"
+            ],
+            "link": "vessta.ru"
+        }
+    ]
+}

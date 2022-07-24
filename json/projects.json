@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "id": 7,
+            "type": "landing",
+            "url": "#",
+            "title": "Title",
+            "image": "img-7.jpg"
+        },
+        {
+            "id": 8,
+            "type": "multipage",
+            "url": "#",
+            "title": "Title",
+            "image": "img-8.jpg"
+        },
+        {
+            "id": 9,
+            "type": "store",
+            "url": "#",
+            "title": "Title",
+            "image": "img-9.jpg"
+        },
+        {
+            "id": 10,
+            "type": "landing",
+            "url": "#",
+            "title": "Title",
+            "image": "img-10.jpg"
+        },
+        {
+            "id": 11,
+            "type": "multipage",
+            "url": "#",
+            "title": "Title",
+            "image": "img-11.jpg"
+        },
+        {
+            "id": 12,
+            "type": "store",
+            "url": "#",
+            "title": "Title",
+            "image": "img-12.jpg"
+        }
+    ]
+}
