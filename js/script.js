@@ -900,4 +900,6 @@ if (document.querySelector('.survey__slider-wrapper')) {
     AOS.init({
         once: true
     });
+	
+	ibg();
 }
